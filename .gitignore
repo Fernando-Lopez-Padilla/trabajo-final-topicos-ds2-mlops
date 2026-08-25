@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+
+# Configuración de VS Code
+.vscode/
+
+# Logs y temporales
+*.log
