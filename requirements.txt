@@ -2,3 +2,7 @@ streamlit
 pandas
 numpy
 huggingface_hub
+fastapi
+uvicorn
+scikit-learn
+joblib
