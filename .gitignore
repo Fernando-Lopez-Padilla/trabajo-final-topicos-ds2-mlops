@@ -14,3 +14,4 @@ __pycache__/
 # Logs y temporales
 *.log
 predicciones_api.csv
+drift_monitor_resultados.csv
